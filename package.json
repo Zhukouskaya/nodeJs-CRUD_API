@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Zhukouskaya/nodeJs-CRUD_API#readme",
   "devDependencies": {
+    "typescript": "^4.9.4",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
   }
